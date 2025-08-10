@@ -197,4 +197,4 @@ graph TD
 
 ### 10. License
 
-To be determined. Likely an open-source license like MIT or Apache 2.0 to encourage adoption and collaboration.
+An MIT open-source license to encourage adoption and collaboration.
